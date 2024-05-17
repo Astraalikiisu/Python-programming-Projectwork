@@ -27,10 +27,10 @@ Here are some of the commands in Finnish.
 - Move: mene (ilmansuunta) (e.g., mene pohjoiseen)
 - Look around: katso
 - Check current location: sijainti
-- Examine an item: katso (esineen nimi) (e.g, ota marja)
+- Examine an item: katso (esineen nimi) (e.g., ota marja)
 - Take an item: ota (esineen nimi)
 - Drop an item: pudota (esineen nimi)
-- Talk to a character: puhu (hahmon nimi) (e.g, puhu karhu)
+- Talk to a character: puhu (hahmon nimi) (e.g., puhu karhu)
 - Give an item to a character: anna (esineen nimi)
 - Combine items: yhdistä
 - Check inventory: inventaario
@@ -43,6 +43,3 @@ Here are some of the commands in Finnish.
 - Interact with characters and objects to gather clues and items.
 - Use items to solve puzzles and unlock new areas.
 - Win the game by reaching the maximum score.
-
-
-
