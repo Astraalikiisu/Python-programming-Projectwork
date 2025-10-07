@@ -1,7 +1,7 @@
 # Text-based adventure game - Python project work
 
 ## Overview
-This text-based adventure game is a project work for the Python programming course.
+This text-based adventure game is a project work for the Python Basics programming course.
 The game uses command line interface (CLI).
 The game is written in Finnish language and takes prompts only in Finnish language.
 
